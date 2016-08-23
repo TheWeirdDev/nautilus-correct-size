@@ -1,5 +1,5 @@
 # nautilus-correct-size
-A simple nautilus script that shows files/folders sizes in Megabyte
+A simple nautilus script that shows files/folders sizes in base of 2 (ex: 1024)
 
 #How to use
 Simply copy size.sh to ~/.local/share/nautilus/scripts , then right click on your file/folder and select Scripts -> size.sh
